@@ -1,8 +1,8 @@
 name: Publish Docker Image
 
 env:
-  DOCKER_HUB_SERVER_REPO: akiicat/multipaper
-  DOCKER_HUB_MASTER_REPO: akiicat/multipaper-master
+  DOCKER_HUB_SERVER_REPO: mraodragon/multipaper
+  DOCKER_HUB_MASTER_REPO: mraodragon/multipaper-master
 
 on:
   push:
